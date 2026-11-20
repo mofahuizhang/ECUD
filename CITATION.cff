@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "ECUD 八卷（暴露—载体与不确定性—确定性分析语法）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-11-20
+license: CC-BY-NC-ND-4.0
+repository-code: "https://gitee.com/mofahuizhang/ECUD"
+keywords:
+  - ECUD
+  - 暴露载体
+  - 不确定性确定性
+  - 分析语法
+  - 通用机制
+  - 载体统计学
+  - 域卷
