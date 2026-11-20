@@ -2,18 +2,20 @@
 
 ECUD（Exposure–Carrier, Uncertainty–Determinacy）是一条分析语法：以两对原语为骨架——E/C 作句法二分（过程与实体），U/D 作认识论一轴的两极——把「暴露—载体—变化—产出—结算」做成可登记、可归因、可审计、可降档的公共格式。本库收八卷发布稿：一语法卷、一通用机制卷、六域卷。
 
+首发存档：Zenodo（2026-11-20）。八卷各有独立 DOI，见卷目表。
+
 ## 卷目
 
-| 卷 | 文件 | 位置 | 一句话 |
-|---|---|---|---|
-| ECUD | [ECUD.md](ECUD.md) | 语法层 | 两对原语、三站、十八条判据构成的分析语法 |
-| GCSF | [GCSF.md](GCSF.md) | 通用机制卷 | 跨两个以上域成立的结构机制 |
-| MCSF | [MCSF.md](MCSF.md) | 域卷·C 系 | 大模型载体：灰盒 C、三流路、观测与作用双通道 |
-| LCSF | [LCSF.md](LCSF.md) | 域卷·C 系 | 法人载体：一型两式、法人壳脱敏、凭证链与责任结算 |
-| HCSF | [HCSF.md](HCSF.md) | 域卷·C 系 | 卫生健康载体：生物人、三层粒度与事前登记 |
-| PCSF | [PCSF.md](PCSF.md) | 域卷·C 系 | 石蜡载体：相变、临界与观测窗口 |
-| PESF | [PESF.md](PESF.md) | 域卷·E 系 | 提示词暴露：剂量、分布读数与设计三支柱 |
-| DESF | [DESF.md](DESF.md) | 域卷·E 系 | 药物暴露：药典矩阵与有符号结算 |
+| 卷 | 文件 | 位置 | 一句话 | DOI |
+|---|---|---|---|---|
+| ECUD | [ECUD.md](ECUD.md) | 语法层 | 两对原语、三站、十八条判据构成的分析语法 | [10.5281/zenodo.24398112](https://doi.org/10.5281/zenodo.24398112) |
+| GCSF | [GCSF.md](GCSF.md) | 通用机制卷 | 跨两个以上域成立的结构机制 | [10.5281/zenodo.24398207](https://doi.org/10.5281/zenodo.24398207) |
+| MCSF | [MCSF.md](MCSF.md) | 域卷·C 系 | 大模型载体：灰盒 C、三流路、观测与作用双通道 | [10.5281/zenodo.24398257](https://doi.org/10.5281/zenodo.24398257) |
+| LCSF | [LCSF.md](LCSF.md) | 域卷·C 系 | 法人载体：一型两式、法人壳脱敏、凭证链与责任结算 | [10.5281/zenodo.24398284](https://doi.org/10.5281/zenodo.24398284) |
+| HCSF | [HCSF.md](HCSF.md) | 域卷·C 系 | 卫生健康载体：生物人、三层粒度与事前登记 | [10.5281/zenodo.24398325](https://doi.org/10.5281/zenodo.24398325) |
+| PCSF | [PCSF.md](PCSF.md) | 域卷·C 系 | 石蜡载体：相变、临界与观测窗口 | [10.5281/zenodo.24398389](https://doi.org/10.5281/zenodo.24398389) |
+| PESF | [PESF.md](PESF.md) | 域卷·E 系 | 提示词暴露：剂量、分布读数与设计三支柱 | [10.5281/zenodo.24398441](https://doi.org/10.5281/zenodo.24398441) |
+| DESF | [DESF.md](DESF.md) | 域卷·E 系 | 药物暴露：药典矩阵与有符号结算 | [10.5281/zenodo.24398492](https://doi.org/10.5281/zenodo.24398492) |
 
 ## 阅读次序
 
